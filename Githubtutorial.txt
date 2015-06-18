@@ -7,3 +7,13 @@ git commit -m "comment"
 git remote add origin 
 
 git push -u origin master
+
+clear
+
+ls = dir
+
+mkdir สร้างโฟรเดอร์
+
+rm -rf ตามด้วยชื่อโฟร์เดอร์ ลบไฟล์
+
+
